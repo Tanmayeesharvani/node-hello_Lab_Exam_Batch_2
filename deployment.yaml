@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: monitorapp
-        image: amruthavm0407/nodejss:latest
+        image: tanshar/nodejsexam:v1
         ports:
         - containerPort: 3000
